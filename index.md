@@ -14,6 +14,8 @@ Client management data entered by employers
 
 Follow-up notes and status information
 
+Location data (only while using the app), if enable by the employer , to support internal operational requirements
+
 **How We Use Information**
 
 The collected information is used only to:
@@ -24,6 +26,8 @@ Track follow-ups and internal workflows
 
 Provide access only to authorized employers
 
+Location Information is used to only support internal business operation s such as activity verification or service accuracy. location data is not shared with third parties and its not used for tracking  or advertising
+
 ⚠️ Guhan does not process payments or financial transactions.
 
 **Data Sharing**
@@ -33,6 +37,8 @@ We do not sell, rent, or trade user or client data
 Data is not shared with third parties for marketing or advertising
 
 Information is accessed only by authorized personnel
+
+location Data is never sold ,shared or used for advertising purposes.
 
 **Third-Party Services**
 
