@@ -65,8 +65,9 @@ Guhan is intended for business use only and is not designed for children under t
 
 This Privacy Policy may be updated from time to time. Any changes will be reflected on this page with an updated date.
 
-**Contact Us**
+## Support
 
-If you have any questions about this Privacy Policy, please contact:
+For support or assistance related to the Guhan app, please contact us at:
 
-Email: support@guhanapp.com
+Email: aegiiztech@gmail.com
+
